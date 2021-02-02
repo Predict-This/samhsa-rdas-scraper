@@ -32,4 +32,4 @@ You can also create a .bat file `<FILENAME HERE>.bat` and paste either of those 
 
 ## Contributors
 
-- [Barret Montgomery](https://www.linkedin.com/in/barrett-montgomery-b378167a/)
+- [Barret Montgomery](https://www.linkedin.com/in/barrett-montgomery-b378167a/) (https://github.com/Predict-This)
